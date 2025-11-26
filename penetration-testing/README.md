@@ -1,4 +1,4 @@
-# 🔐 Web Application Penetration Test – Maisie Platform  
+#  Web Application Penetration Test – Maisie Platform  
 ### University of Roehampton – Cyber Security  
 ### Performed by: Safa Abiasis Bashir Yusuf  
 ### Date: 01.04.2025  
