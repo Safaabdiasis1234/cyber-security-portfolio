@@ -1,4 +1,5 @@
 Welcome to my portfolio.
+
 This repository brings together selected projects, coursework, and technical work completed during my studies and independent learning. It includes a mix of security investigations, coding projects, and practical exercises that reflect my developing skills across different areas of technology.
 Included Work
 
